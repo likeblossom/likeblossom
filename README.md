@@ -82,7 +82,7 @@ Computer vision system that classifies image-based CAPTCHA challenges using deep
 
 <td width="50%" valign="top">
 
-### 🗺️ Campus Guide
+### 🗺️ Concordia Campus Navigation App
 
 Cross-platform campus navigation application featuring indoor routing, accessibility-aware pathfinding, CI/CD pipelines, and automated end-to-end testing.
 
@@ -94,7 +94,7 @@ Cross-platform campus navigation application featuring indoor routing, accessibi
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
 ![Maestro](https://img.shields.io/badge/Maestro-000000?style=flat-square)
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/likeblossom/concordia-class-finder)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/team-exception-handlers/soen390-project)
 
 </td>
 </tr>
